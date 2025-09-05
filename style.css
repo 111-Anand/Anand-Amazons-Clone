@@ -18,11 +18,11 @@
     width: 100px;
  }
  .logo {
-    background-image: url("amazon_logo.png");
-    background-size: cover;
+    background-image: url("Anand.png");
+    background-size: contain;
     background-color: #0f1111;
     height: 50px;
-    width: 120px;
+    width: 100px;
  }
  .border {
     border: 1px solid transparent ;
@@ -518,10 +518,10 @@ footer {
 }
 
 .logo1{
-    background-image: url("amazon_logo.png");
+    background-image: url("Anand.png");
     background-size: cover;
     background-color: #0f1111;
-    height: 50px;
+    height: 120px;
     width: 120px;
     margin-top: 30px;
  }
