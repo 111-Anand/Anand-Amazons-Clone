@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # 📌 Amazon Clone – Frontend (HTML & CSS)
 
 A responsive static clone of **Amazon’s homepage**, built using only **HTML and CSS**.  
+=======
+# 📌 A-Amazon's Clone – Frontend (HTML & CSS)
+
+A responsive static clone of ** Anand's Amazon’s homepage**, built using only **HTML and CSS**.  
+>>>>>>> 062792684cc75cb2944bbe9f55103faf59f5d4cd
 This project focuses on recreating the **layout, design aesthetics, and navigation structure** of Amazon’s interface **without JavaScript or external frameworks**.  
 
 ---
@@ -49,7 +55,11 @@ This project is a **frontend-only Amazon Clone** that demonstrates how to build 
 *(Add a screenshot of your project here – e.g., homepage preview)*  
 
 ```md
+<<<<<<< HEAD
 ![Amazon Clone Preview](screenshot1.png)
 (screenshot2.png)
 (screenshot3.png)
 (screenshot4.png)
+=======
+![Amazon Clone Preview](screenshot.png)
+>>>>>>> 062792684cc75cb2944bbe9f55103faf59f5d4cd
