@@ -1,5 +1,5 @@
 Project Overview
-Amazon Clone – Frontend (HTML & CSS)
+<b>Amazon Clone – Frontend (HTML & CSS)</b>
 
 A static, responsive clone of Amazon’s homepage built purely with HTML and CSS. This project focuses on recreating the layout, design aesthetics, and navigation structure of Amazon’s interface without using JavaScript or any external frameworks.
 
